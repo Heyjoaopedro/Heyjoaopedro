@@ -1,40 +1,43 @@
-<h1 align="center">Olá! Eu sou o João Pedro 👋</h1>
-
-<p align="center">
+<h1 align="left">Olá! Eu sou o João Pedro 👋</h1>
+<p align="left">
   💻 Desenvolvedor apaixonado por tecnologia, automação e soluções criativas.<br>
-  ✝️ Cristão, curioso e sempre aprendendo algo novo.<br>
 </p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias que uso
 
-<div style="display: inline_block"><br>
+
+<div>
   <img align="center" alt="João-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="João-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="João-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="João-Ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="João-Vite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
+  <img align="center" alt="João-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="João-Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="João-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="João-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="João-Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="João-JSON" height="40" width="40" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
+</div>
+
+<br>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dracula&custom_title=Estatísticas%20do%20GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dracula&langs_count=6&hide_progress=true" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrodev&show_icons=true&theme=tokyonight&custom_title=Estatísticas%20do%20GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrodev&layout=compact&theme=tokyonight&langs_count=6&hide_progress=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrodev&theme=tokyonight&date_format=%5BY.%5Dn.j" />
-</div>
-
----
-
-## 🌐 Redes Sociais
+### 🌐 Redes Sociais
 
 <div>
   <a href="https://instagram.com/heyyjoao_dev" target="_blank">
@@ -50,6 +53,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   💬 “Tudo posso naquele que me fortalece.” – Filipenses 4:13 🙏
 </p>

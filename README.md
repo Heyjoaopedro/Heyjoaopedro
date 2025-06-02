@@ -1,9 +1,7 @@
-<h1 align="left">Olá! Eu sou o João Pedro 👋</h1>
-<p align="left">
-  💻 Desenvolvedor apaixonado por tecnologia, automação e soluções criativas.<br>
-</p>
+<h1>Olá! Eu sou o João Pedro 👋</h1>
+💻 Desenvolvedor apaixonado por tecnologia, automação e soluções criativas.
+<hr>
 
----
 
 ### 🛠️ Tecnologias que uso
 
@@ -39,7 +37,7 @@
 
 ### 🌐 Redes Sociais
 
-<div>
+<div align="left">
   <a href="https://instagram.com/heyyjoao_dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>

@@ -30,7 +30,7 @@
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide_progress=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide_progress=true&hide=json,html,css" />
 </div>
 
 ---

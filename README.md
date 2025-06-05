@@ -1,10 +1,11 @@
-<h1>Olá! Eu sou o João Pedro 👋</h1>
-💻 Desenvolvedor apaixonado por tecnologia, automação e soluções criativas.
-<hr>
+# 👋 Olá! Eu sou o João Pedro
 
+💻 Desenvolvedor apaixonado por tecnologia, automação e soluções criativas.  
+✝️ Cristão, curioso e sempre aprendendo algo novo.
+
+---
 
 ### 🛠️ Tecnologias que uso
-
 
 <div>
   <img align="center" alt="João-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,15 +23,13 @@
   <img align="center" alt="João-JSON" height="40" width="40" src="https://www.vectorlogo.zone/logos/json/json-icon.svg">
 </div>
 
-<br>
-
 ---
 
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide_progress=true&hide=json,html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide=json,html,css" />
 </div>
 
 ---
@@ -51,6 +50,4 @@
 
 ---
 
-<p align="left">
-  💬 “Tudo posso naquele que me fortalece.” – Filipenses 4:13 🙏
-</p>
+💬 “Tudo posso naquele que me fortalece.” – *Filipenses 4:13* 🙏

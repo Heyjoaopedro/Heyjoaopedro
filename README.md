@@ -28,8 +28,8 @@
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide=json,html,css" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heyjoaopedro&show_icons=true&theme=dark&custom_title=Estatísticas%20do%20GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyjoaopedro&layout=compact&theme=dark&langs_count=6&hide=json,html,css" />
 </div>
 
 ---

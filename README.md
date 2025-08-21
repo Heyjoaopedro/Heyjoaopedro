@@ -48,7 +48,7 @@
 ### 🌐 Redes Sociais
 
 <div align="left">
-  <a href="https://instagram.com/heyyjoao_dev" target="_blank">
+  <a href="https://instagram.com/heyyjoaopedro" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:pedrojoaobakuri@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
